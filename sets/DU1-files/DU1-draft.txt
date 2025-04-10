@@ -1,0 +1,173 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Antsnatcher",
+			"rarity": "rare",
+			"mana_cost": "{B/G}",
+			"type": "Creature — Spider ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/12_Antsnatcher.png"
+			}
+		},
+		{
+			"name": "Nemi's Royal Corps",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Creature — Insect Army ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/7_Nemi's Royal Corps.png"
+			}
+		},
+		{
+			"name": "Flutter Free",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/1_Flutter Free.png"
+			}
+		},
+		{
+			"name": "Personal Escort",
+			"rarity": "rare",
+			"mana_cost": "{R/W}",
+			"type": "Creature — Insect Scout ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/13_Personal Escort.png"
+			}
+		},
+		{
+			"name": "Twin Fangs",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/3_Twin Fangs.png"
+			}
+		},
+		{
+			"name": "Silent Creeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Spider Horror ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/9_Silent Creeper.png"
+			}
+		},
+		{
+			"name": "Hive Queen Nemi",
+			"rarity": "rare",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Insect Noble ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/6_Hive Queen Nemi.png"
+			}
+		},
+		{
+			"name": "Alpha Wolfspider",
+			"rarity": "rare",
+			"mana_cost": "{3}{B/G}{B/G}",
+			"type": "Legendary Creature — Spider ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/11_Alpha Wolfspider.png"
+			}
+		},
+		{
+			"name": "Feast",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/4_Feast.png"
+			}
+		},
+		{
+			"name": "Succulent Juices",
+			"rarity": "rare",
+			"mana_cost": "{1}{B/G}",
+			"type": "Enchantment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/14_Succulent Juices.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/1_Insect.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/2_Insect.png"
+			}
+		},
+		{
+			"name": "Ornata, Master Oracle",
+			"rarity": "rare",
+			"mana_cost": "{I/U}",
+			"type": "Legendary Creature — Frog Shaman ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/8_Ornata, Master Oracle.png"
+			}
+		},
+		{
+			"name": "Magic Hoarder",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Frog Beast ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/2_Magic Hoarder.png"
+			}
+		},
+		{
+			"name": "Twilight Darter",
+			"rarity": "rare",
+			"mana_cost": "{1}{I}{U}",
+			"type": "Creature — Frog ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/10_Twilight Darter.png"
+			}
+		},
+		{
+			"name": "Gigamorph",
+			"rarity": "rare",
+			"mana_cost": "{2}{I}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/5_Gigamorph.png"
+			}
+		},
+		{
+			"name": "Lost Ghostblade",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://trapables.github.io/sets/DU1-files/img/15_Lost Ghostblade.png"
+			}
+		}
+	]
